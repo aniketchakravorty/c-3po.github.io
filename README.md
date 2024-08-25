@@ -1,4 +1,4 @@
-# c-3po.github.io
+# Aniket Chakravorty
 ### Education
 Climate Science, PhD.
 ### Work Experience
