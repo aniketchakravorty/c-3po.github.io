@@ -17,5 +17,6 @@ Scientist @ North Eastern Space Applications Centre
 - Assimilation of satellite based soil moisture in a land data assimilation system for investigating the spatio-temporal behaviour of land-atmospheric interactions over India!
 - Generation of an Accurate Long-term Satellite Rainfall Product over North East India using a  Non-Stationary Merging Algorithm!
 - High resolution regional climate projections and assessment of the impact of climate change on weather extremes over the NE region of India!
+
 $$$ Publications
 
